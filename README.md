@@ -1,6 +1,6 @@
 ### Hello there
 
-im mad stoobid stuff
+im make stoobid stuff
 
 ### How to reach me
 
