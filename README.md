@@ -1,9 +1,6 @@
 ### Hello there
 
-### Who am I?
-
-I'm RacoonDog, an aspiring coder who's only skill is making mods for games... poorly.  
-I currently know Python, Java and Lua.  
+im mad stoobid stuff
 
 ### How to reach me
 
